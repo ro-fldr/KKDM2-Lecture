@@ -99,4 +99,5 @@ uvx ruff check .
 
 1. [`01_interactive_jupyter.ipynb`](file:///home/uulite/projects/KKDM2_lecture/Lecture/01_interactive_jupyter.ipynb) — Widget exploration: sliders, dropdowns, interactive filtering with Plotly, interactive weather station geoplots (`px.scatter_geo` & OpenStreetMap map view with data from `data/`), and station time-series inspection.
 2. [`02_sklearn_timeseries_pipeline.ipynb`](file:///home/uulite/projects/KKDM2_lecture/Lecture/02_sklearn_timeseries_pipeline.ipynb) — Custom `BaseEstimator` transformers (`SensorClipper`, `ForwardFillImputer`), custom statsmodels ARMA wrapper, `Pipeline`, and `TimeSeriesSplit` validation.
-3. [`demo_marimo.py`](file:///home/uulite/projects/KKDM2_lecture/Lecture/demo_marimo.py) — Standalone reactive Marimo script demo.
+3. [`02_sklearn_timeseries_pipeline_advanced.ipynb`](file:///home/uulite/projects/KKDM2_lecture/Lecture/02_sklearn_timeseries_pipeline_advanced.ipynb) — Advanced model benchmark: comparing Baseline ARMA(2, 0, 2) against Dynamic Harmonic Regression (Fourier SARIMAX) and Tabular Lagged Gradient Boosting (`HistGradientBoostingRegressor`).
+4. [`demo_marimo.py`](file:///home/uulite/projects/KKDM2_lecture/Lecture/demo_marimo.py) — Standalone reactive Marimo script demo.
