@@ -1,0 +1,16 @@
+[project]
+name = "lecture"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.6.5",
+    "marimo>=0.25.2",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "plotly>=7.1.0",
+    "scikit-learn>=1.9.1",
+    "statsmodels>=0.15.0",
+]
