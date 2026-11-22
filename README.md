@@ -6,7 +6,7 @@ Demo notebooks and notes for the KDDM2 lecture.
 - [uv](https://docs.astral.sh/uv/): fast Python package and environment manager (`uv sync`, `uv run`)
 - Jupyter + `ipywidgets` + `plotly`: interactive plots, sliders, and maps
 - [marimo](https://marimo.io): reactive Python notebooks saved as `.py` files
-- `scikit-learn` + `statsmodels`: custom transformers, pipelines, time-series CV, and ARMA
+- `scikit-learn` + `statsmodels`: custom transformers, pipelines, time-series CV and incorporating external models like ARMA from statsmodels
 
 ## Files
 - `01_interactive_jupyter.ipynb`: interactive plots, sensor cleaning, and weather station maps
